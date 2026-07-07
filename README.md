@@ -1,3 +1,4 @@
+
 # Documentación de la base de datos TechZone
 
 ## Descripción del modelo
@@ -88,6 +89,7 @@ Esta tabla representa la información detallada por cada venta realizada, surge 
 
 ## Imagen del modelo entidad - relación:
 
+<img width="992" height="669" alt="image" src="https://github.com/user-attachments/assets/f20a2892-d3dc-406d-ad1f-9632624a87f1" />
 
 
 ## ¿Cómo importar y ejecutar los archivos SQL en PostgreSQL?
