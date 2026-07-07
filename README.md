@@ -89,7 +89,8 @@ Esta tabla representa la información detallada por cada venta realizada, surge 
 
 ## Imagen del modelo entidad - relación:
 
-<img width="992" height="669" alt="image" src="https://github.com/user-attachments/assets/f20a2892-d3dc-406d-ad1f-9632624a87f1" />
+<img width="984" height="658" alt="modelo_er" src="https://github.com/user-attachments/assets/e9e81a76-0138-4a84-9aa2-c9d04af79da2" />
+
 
 
 ## ¿Cómo importar y ejecutar los archivos SQL en PostgreSQL?
